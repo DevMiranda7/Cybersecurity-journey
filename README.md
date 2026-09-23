@@ -8,7 +8,7 @@ Registrar, de forma organizada e verificável, cada laboratório, projeto e apre
 ## 🗺️ Roadmap em andamento
  
 - [x] Setup do ambiente — VirtualBox + Ubuntu 24.04 LTS
-- [ ] Fundamentos de Linux (TryHackMe — Pre Security)
+- [x] Fundamentos de Linux (TryHackMe — Pre Security)
 - [ ] Home Lab de rede: Wireshark + Nmap
 - [ ] Active Directory vulnerável (Windows Server + cliente)
 - [ ] SIEM — Wazuh monitorando o ambiente do lab
@@ -36,7 +36,7 @@ Cada laboratório ou projeto vive em sua própria pasta, com um README próprio 
  
 ## 📌 Status atual
  
-🟡 Em andamento — ambiente base configurado, iniciando fundamentos de Linux e redes.
+🟡 Em andamento — ambiente base configurado, fundamentos de Linux concluídos e sendo aprofundados na prática via OverTheWire Bandit (nível 6/34+).
  
 ---
  
