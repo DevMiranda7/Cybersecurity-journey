@@ -48,22 +48,6 @@ Cada sessão nasce de uma imagem limpa, com hostname, MAC, IP e sub-rede novos, 
 - VM de estudo: Ubuntu 24.04 LTS (3 vCPUs, 4 GB RAM)
 - VMs descartáveis: sessões efêmeras criadas por script (veja o projeto em destaque)
 
-## 📁 Estrutura do repositório
-
-Cada laboratório ou projeto vive em sua própria pasta, com um README próprio: objetivo, ferramentas, passo a passo, o que foi aprendido e evidências quando aplicável.
-
-```
-/labs
-  /01-setup-ambiente
-  /02-fundamentos-linux
-  /03-vm-descartavel
-  /04-wireshark-nmap
-  ...
-/projetos
-  /home-soc-wazuh
-  ...
-```
-
 > Sobre o Bandit: seguindo a regra da comunidade OverTheWire, **não publico senhas nem soluções exatas** — apenas conceitos e raciocínio.
 
 ## 📌 Status atual
